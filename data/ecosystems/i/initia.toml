@@ -1,0 +1,6 @@
+# Ecosystem Level Information
+title = "Initia"
+
+sub_ecosystems = ["Wormhole"]
+
+github_organizations = ["https://github.com/initia-labs"]
